@@ -1,5 +1,5 @@
 # GeekTrust-TeeRex-Store
-[khans-store.netlify.app](khans-store.netlify.app)
+[khans-store.netlify.app](https://khans-store.netlify.app)
 
 Background
 
