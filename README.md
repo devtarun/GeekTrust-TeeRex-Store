@@ -8,23 +8,22 @@ To run his business, he needs a simple webapp where customers can browse through
 
 |----------------------------|
 
-Install dependencies
+Install dependencies:
 ```bash
 npm ci
 ```
 
 Start development server:
-
 ```bash
 npm start
 ```
 
-Test project
+Test project:
 ```bash
 npm run test
 ```
 
-Build project
+Build project:
 ```bash
 npm run build
 ```
