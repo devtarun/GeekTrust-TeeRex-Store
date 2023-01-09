@@ -6,7 +6,9 @@ export default function Header({ cartCount }) {
   return (
     <header>
       <div className="logo">
-        <h1>TeeRex Store</h1>
+        <Link to="/">
+          <h1>TeeRex Store</h1>
+        </Link>
       </div>
       <div className="right">
         <Link to="/">Products</Link>
