@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  color: #1a1a1a;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: white;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  padding: 20px;
+
+  &.flex_col {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,22 @@
+.search_wrapper {
+  display: flex;
+  margin: 20px;
+
+  input {
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 18px;
+    padding: 10px;
+    flex-grow: 1;
+
+    &:focus {
+      outline: none;
+    }
+  }
+  
+  button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+}
